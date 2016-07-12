@@ -11,6 +11,7 @@
 /log/*
 !/log/.keep
 /tmp
+.byebug_history
 
 *.gem
 *.rbc
@@ -25,7 +26,7 @@
 /tmp/
 
 # Used by dotenv library to load environment variables.
-# .env
+.env
 
 ## Specific to RubyMotion:
 .dat*
